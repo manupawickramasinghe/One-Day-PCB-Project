@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDRH74NP-120MC-B
+D 12 H Shielded Inductor 1.71 A 58mOhm Max Nonstandard
+K
+F https://products.sumida.com/products/pdf/CDRH74.pdf
+$ENDCMP
+#
+#End Doc Library

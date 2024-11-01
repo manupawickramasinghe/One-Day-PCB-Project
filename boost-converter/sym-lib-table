@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CDRH74NP-120MC-B")(type "Legacy")(uri "${KIPRJMOD}/boost-converter libs/CDRH74NP-120MC-B.lib")(options "")(descr ""))
+)
